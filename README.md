@@ -1,2 +1,2 @@
 # ShamilHameed
-Code for Shamil Hameed
+Code for intern
